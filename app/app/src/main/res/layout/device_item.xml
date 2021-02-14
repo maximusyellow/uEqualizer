@@ -21,12 +21,6 @@
             android:text="Title"
             android:id="@+id/textView1"
             android:textSize="20sp"/>
-        <TextView
-            android:layout_height="wrap_content"
-            android:layout_width="wrap_content"
-            android:text="Description"
-            android:id="@+id/textView2"
-            android:textSize="20sp"/>
     </LinearLayout>
 
 </LinearLayout>
